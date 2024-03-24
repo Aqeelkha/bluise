@@ -2775,6 +2775,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@snyk/protect@^1.1285.0":
+  version "1.1285.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1285.0.tgz#22c78d2cc964bdfd5e99aee63edd8b7e8f129712"
+  integrity sha512-QUGi/cn9b7OWDx+j3b3VcPMo6/Zs5WT2dcWevm3fHn+6l4SagtVJ6gJJ/7SKepIrf5YXnrzELzBFuUIctFQeMg==
+
 "@trysound/sax@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
